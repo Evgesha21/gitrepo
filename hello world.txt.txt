@@ -1,2 +1,2 @@
-print("Hello world")
-pring("Hi")
+print("Hello world;")
+pring("Hi";)
